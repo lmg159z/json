@@ -1,0 +1,26 @@
+{
+    "SBD": "40000002",
+    "toan": 9.0,
+    "van": 2.25,
+    "ngoaiNgu": null,
+    "su": null,
+    "dia": null,
+    "GDKTPL": null,
+    "li": null,
+    "hoa": null,
+    "sinh": 2.0,
+    "tin": null,
+    "congNghe": 8.0,
+    "maNgoaiNgu": null,
+    "THMs": [
+        {
+            "THM": "B03",
+            "mon": [
+                "toan",
+                "sinh",
+                "van"
+            ],
+            "diem": 13.25
+        }
+    ]
+}

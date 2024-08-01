@@ -1,0 +1,53 @@
+{
+    "SBD": "59000008",
+    "toan": 1.5,
+    "van": 4.5,
+    "ngoaiNgu": null,
+    "su": null,
+    "dia": null,
+    "GDKTPL": 6.25,
+    "li": null,
+    "hoa": null,
+    "sinh": 0.5,
+    "tin": null,
+    "congNghe": null,
+    "maNgoaiNgu": null,
+    "THMs": [
+        {
+            "THM": "B03",
+            "mon": [
+                "toan",
+                "sinh",
+                "van"
+            ],
+            "diem": 6.5
+        },
+        {
+            "THM": "B04",
+            "mon": [
+                "toan",
+                "sinh",
+                "GDKTPL"
+            ],
+            "diem": 8.25
+        },
+        {
+            "THM": "C14",
+            "mon": [
+                "van",
+                "toan",
+                "GDKTPL"
+            ],
+            "diem": 12.25
+        },
+        {
+            "THM": "C18",
+            "mon": [
+                "van",
+                "sinh",
+                "GDKTPL"
+            ],
+            "diem": 11.25
+        }
+    ]
+}
